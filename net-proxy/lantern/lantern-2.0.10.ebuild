@@ -20,6 +20,8 @@ IUSE=""
 DEPEND=""
 RDEPEND="${DEPEND}"
 
+S="${WORKDIR}"
+
 src_compile() { :; }
 
 src_install() {
