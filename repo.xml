@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<repositories encoding="UTF-8" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>gentoo-tospio</name>
+    <description>TOSPIO official Gentoo Overlay</description>
+    <homepage>https://github.com/TOSPIO/gentoo-tospio</homepage>
+    <owner>
+      <email>anohigisavay@gmail.com</email>
+      <name>Savor d'Isavano</name>
+    </owner>
+    <source type="git">git://github.com/TOSPIO/gentoo-tospio.git</source>
+  </repo>
+</repositories>
