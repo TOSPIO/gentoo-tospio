@@ -10,7 +10,7 @@ DESCRIPTION="A free desktop application that delivers fast, reliable and secure 
 HOMEPAGE="https://github.com/getlantern/lantern"
 SRC_URI="
     x86?   ( https://s3.amazonaws.com/lantern/lantern-installer-beta-32-bit.deb )
-	amd64? ( https://s3.amazonaws.com/lantern/lantern-installer-beta-32-bit.deb )"
+	amd64? ( https://s3.amazonaws.com/lantern/lantern-installer-beta-64-bit.deb )"
 
 LICENSE="Apache"
 SLOT="0"
